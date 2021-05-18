@@ -17,9 +17,9 @@
             <uri>model://ground_plane</uri>
         </include>
 
-        <!-- My Maze -->
+        <!-- My Road -->
         <include>
-            <uri>model://yellow_path</uri>
+            <uri>model://path</uri>
         </include>
 
         <physics type="ode">
